@@ -18,3 +18,5 @@ def start_menu():
             id.import_data(row_data, separ)
         elif result == 3:
             sd.input_search()
+        elif result == 0:
+            break

@@ -1,3 +1,2 @@
-import controller as con
 
-con.start_menu()
+#con.start_menu()
